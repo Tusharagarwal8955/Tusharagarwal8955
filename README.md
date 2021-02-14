@@ -4,7 +4,7 @@
 ### Hey,[Tushar here!](https://tusharedu-awesome.netlify.app/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/assets/images/giphy.gif' alt = 'Awesome Design' align='right'/>
+<img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/tree/main/assets/images/giphy.gif' alt = 'Awesome Design' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-tushar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tusharagarwal233/)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-agrawal.edu800@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agrawal.edu80004@gmail.com)](mailto:asterp04@gmail.com)
 
