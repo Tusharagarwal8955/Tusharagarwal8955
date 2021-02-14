@@ -4,7 +4,7 @@
 ### Hey,[Tushar here!](https://tusharedu-awesome.netlify.app/)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/tree/main/assets/images/giphy.gif' alt = 'Awesome Design' align='right'/>
+<img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/blob/main/assets/images/giphy.gif' alt = 'Awesome Design' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-tushar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tusharagarwal233/)](https://www.linkedin.com/in/haany-ali) [![Gmail Badge](https://img.shields.io/badge/-agrawal.edu800@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agrawal.edu80004@gmail.com)](mailto:asterp04@gmail.com)
 
@@ -25,14 +25,14 @@ Welcome to my humble abode in the Project World.. There are 10 types of people i
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharagarwal8955&layout=compact">
 
 ## Programming Languages
-<img src = 'https://github.com/Tusharagarwal8955/assets/images/c-original.svg' width='30'/> <img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/assets/images/cpp.svg' width='30'/> <img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/assets/images/pycharm.svg' width='30'/> <img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/assets/images/python2.png' height='30'/> <img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/assets/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/assets/images/html.svg' width='30'/> <img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/assets/images/css.svg' width='30'/> <img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/assets/images/js.svg' width='30'/> <img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/assets/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/assets/images/docker.svg' height='40'/> <img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/assets/images/hadoop.svg' width='30'/> <img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/assets/images/aws.svg' width='40'/>
- <img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/assets/images/sql.svg' width='30'/> <img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/assets/images/git.svg' width='30'/><img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/assets/images/ansible.svg' width='30'/><img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/assets/images/kubernetes.svg' width='30'/><img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/assets/images/linux.svg' width='30'/>
+<img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/blob/main/assets/images/c-original.svg' width='30'/> <img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/blob/main/assets/images/cpp.svg' width='30'/> <img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/blob/main/assets/images/pycharm.svg' width='30'/> <img src = 'hhttps://github.com/Tusharagarwal8955/Tusharagarwal8955/blob/main/assets/images/python2.png' height='30'/> <img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/blob/main/assets/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/blob/main/assets/images/html.svg' width='30'/> <img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/blob/main/assets/images/css.svg' width='30'/> <img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/blob/main/assets/images/js.svg' width='30'/> <img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/blob/main/assets/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/blob/main/assets/images/docker.svg' height='40'/> <img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/blob/main/assets/images/hadoop.svg' width='30'/> <img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/blob/main/assets/images/aws.svg' width='40'/>
+ <img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/blob/main/assets/images/sql.svg' width='30'/> <img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/blob/main/assets/images/git.svg' width='30'/><img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/blob/main/assets/images/ansible.svg' width='30'/><img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/blob/main/assets/images/kubernetes.svg' width='30'/><img src = 'https://github.com/Tusharagarwal8955/Tusharagarwal8955/blob/main/assets/images/linux.svg' width='30'/>
  
  ## Who am I?
  ```python
  class WhoAmI:
  	user = 'Tushar'
-	current_edu = "Poornima College of Engineering"
+	current_edu = "Poornima College of Engineering, Jaipur"
 	hobbies = [
 				'Travelling',
 				'Watching Anime',
