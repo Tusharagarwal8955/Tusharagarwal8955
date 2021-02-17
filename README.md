@@ -34,6 +34,7 @@ Welcome to my humble abode in the Project World.. There are 10 types of people i
 	current_edu = "Poornima College of Engineering, Jaipur"
 	hobbies = [
 				'Travelling',
+				'Cooking',
 				'Watching Anime',
 				'Watching Sci-Fi flicks'
 				'Being up all Night chasing that ONE BUG...'
