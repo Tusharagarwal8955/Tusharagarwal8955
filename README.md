@@ -56,7 +56,7 @@ Welcome to my humble abode in the Project World.. There are 10 types of people i
  * I'm currently working on 🔭 building **Mobile Apps using Flutter**, working up on polishing my skills 🌱 in **Competitive Programming**, building projects on multiple **tech stacks** and preparing for **Linux Automation Using Ansible(RH294) Exam**.
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1loibAtq2-TOQaYXxh4Z1mfomYBKdADkg/view?usp=sharing)
+  - :octocat: [My Resume](https://drive.google.com/file/d/1iNb4fK0Ba-vruybQndv3DUzw_OZqJPtK/view?usp=sharing)
   - If you have any suggestions to this README, feel free to inform me. And if you liked, you are free to use it for yourself.(P.S. Star it too!!:grimacing: ).
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Tusharagarwal8955&show_icons=true&hide=[%22issues%22])
